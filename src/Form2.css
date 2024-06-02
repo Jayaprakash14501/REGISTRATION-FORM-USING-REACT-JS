@@ -1,0 +1,50 @@
+#name
+{
+    width:100%;
+    height:30px;
+    margin-top:20px;
+    margin-bottom:20px;
+    border-radius:5px;
+    border:0px;
+}
+form
+{
+    padding-left:40px;
+    padding-right:40px;
+    padding-top:10px; 
+    padding-bottom:10px;
+    background-color:rgb(17, 214, 174);
+    
+}
+#name1
+{
+    width:100%;
+    height:100px;
+    margin-top:20px;
+    margin-bottom:20px;
+    
+}
+h1{
+    color:white;
+}
+#name2
+{
+    width:100%;
+    height:40px;
+    margin-top:20px;
+    margin-bottom:20px;
+    background-color:green;
+    border-radius:10px;
+    color:white;
+    border:0px;
+}
+.property
+{
+    text-align:justify;
+    background-color:rgb(17, 214, 174);
+    padding-left:500px;
+    padding-right:500px;
+    padding-bottom:10px;
+    padding-top:10px;
+
+}
